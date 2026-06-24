@@ -1,2 +1,17 @@
-# customer_segmentation-
-Unlock the power of data-driven marketing with this interactive project! This repository showcases how businesses can transform raw customer data into actionable insights using unsupervised machine learning. By applying K-Means clustering, the project identifies distinct customer groups and reveals patterns in demographics and spending behavior
+# Customer Segmentation Project
+
+## Objective
+Segment customers based on demographics and behavior to generate targeted insights.
+
+## Tools Used
+- Python (pandas, scikit-learn, matplotlib, seaborn)
+- IDLE for execution
+
+## Steps
+1. Data preprocessing
+2. Clustering using K-Means
+3. Visualization of segments
+4. Insights & recommendations
+
+## Expected Outcome
+Experience in customer analytics, segmentation, and actionable insights.
